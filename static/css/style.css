@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+    transition: background-color 0.5s, color 0.5s;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+select, button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.quote-box {
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.dark-mode {
+    background-color: #222;
+    color: #eee;
+}
